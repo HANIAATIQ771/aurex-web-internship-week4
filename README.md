@@ -7,7 +7,7 @@
 
 ## Live Deployment
 
-- **GitHub Pages / Vercel:** 
+- **GitHub Pages / Vercel:**   https://haniaatiq771.github.io/aurex-web-internship-week4/
 
 ---
 
